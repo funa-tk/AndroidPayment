@@ -1,0 +1,2 @@
+# AndroidPayment
+AndroidのIABのレシート取得アプリ
